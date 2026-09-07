@@ -3,6 +3,8 @@
 **Autora:** Stefania Borja, estudiante de Ingeniería de Sistemas — Universidad EAN
 **Contexto:** Trabajo final de la ruta formativa Data Mining con IA: Análisis de Valor Empresarial
 
+**Video Explicativo del trabajo: https://youtu.be/9ZeRr1VDjy4**
+
 ## 🎯 Objetivo y pregunta central
 
 Este proyecto investiga una contradicción común en el mercado laboral tecnológico: vacantes etiquetadas oficialmente como **"Entry Level"** (nivel de entrada) que, en la práctica, exigen años de experiencia previa — la queja frecuente de que "las empresas ya no quieren contratar y entrenar, quieren gente ya entrenada".
